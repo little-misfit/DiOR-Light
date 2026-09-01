@@ -21,7 +21,7 @@ Dior: Drawing the Light of Image via Material-Decoupled Illumination Representat
 
 <p align="center">
   <a href="https://arxiv.org/abs/2608.29925">
-    <img src="https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg" alt="arXiv 2608.29925">
+    <img src="https://img.shields.io/badge/arXiv-2608.29925-b31b1b.svg" alt="arXiv 2608.29925">
   </a>
   <a href="https://huggingface.co/spaces/Little-ECHO/dior-light">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-FFD21E.svg" alt="Hugging Face demo">
