@@ -40,8 +40,9 @@ Dior: Drawing the Light of Image via Material-Decoupled Illumination Representat
 
 ## News
 
+- **2026-09-20:** This repository is no longer maintained. DiOR-Light has moved to [KlingAIResearch/Dior-Light](https://github.com/KlingAIResearch/Dior-Light). All future updates and releases will be published in the new repository.
 - **2026-08-31:** The interactive [Hugging Face demo](https://huggingface.co/spaces/Little-ECHO/dior-light) is now available.
-- **Coming soon:** The source code will be released in this repository. Stay tuned!
+- **Coming soon:** The source code will be released in the [new repository](https://github.com/KlingAIResearch/Dior-Light). Stay tuned!
 
 ## Overview
 
